@@ -1,2 +1,2 @@
-# Yatzee
-A game of Yatzee (in Java)
+# Yahtzee
+A game of Yahtzee (in Java)
